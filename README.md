@@ -1,7 +1,7 @@
 # 🛍️ AI Shop — Flutter + AWS Cloud App
 
 > AI-Powered E-commerce Mobile App with Secure AWS Cognito Authentication  
-> **Assignment: W3_A1 | Full Stack Developer | 100 Marks**
+> **Assignment: W3_A1 | Full Stack Developer 
 
 ---
 
